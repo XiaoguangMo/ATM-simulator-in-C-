@@ -1,0 +1,11 @@
+F:\NNNOATM\NNNOATM\NNNOATM\bin\Release\NNNOATM.exe
+F:\NNNOATM\NNNOATM\NNNOATM\bin\Release\NNNOATM.pdb
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\ResolveAssemblyReference.cache
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\NNNOATM.Create.resources
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\NNNOATM.Form1.resources
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\NNNOATM.Main.resources
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\NNNOATM.Properties.Resources.resources
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\GenerateResource.read.1.tlog
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\GenerateResource.write.1.tlog
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\NNNOATM.exe
+F:\NNNOATM\NNNOATM\NNNOATM\obj\x86\Release\NNNOATM.pdb
